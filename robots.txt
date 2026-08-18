@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-5xbqm2.siraj.com.sy/sitemap.xml
